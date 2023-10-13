@@ -1,0 +1,191 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-id="扬州1台" tvg-name="扬州1台" tvg-logo="" group-title="其他",扬州1台
+http://zjtv-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 tvg-id="扬州2台" tvg-name="扬州2台" tvg-logo="" group-title="其他",扬州2台
+http://zjtv-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 tvg-id="扬州3台" tvg-name="扬州3台" tvg-logo="" group-title="其他",扬州3台
+http://zjtv-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 tvg-id="扬州邗江" tvg-name="扬州邗江" tvg-logo="" group-title="其他",扬州邗江
+http://zjtv-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 tvg-id="宝应新闻综合" tvg-name="宝应新闻综合" tvg-logo="" group-title="其他",宝应新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 tvg-id="宝应生活资讯" tvg-name="宝应生活资讯" tvg-logo="" group-title="其他",宝应生活资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2889103905_1760287796/ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
+#EXTINF:-1 tvg-id="泰州1台" tvg-name="泰州1台" tvg-logo="" group-title="其他",泰州1台
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2988629058_378021149/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-id="泰州2台" tvg-name="泰州2台" tvg-logo="" group-title="其他",泰州2台
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3054465711_-1323742279/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-id="泰州3台" tvg-name="泰州3台" tvg-logo="" group-title="其他",泰州3台
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3111075443_-1954595974/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 tvg-id="泰兴综合" tvg-name="泰兴综合" tvg-logo="" group-title="其他",泰兴综合
+http://sj.smarttaixing.com:1935/live/_definst_/txzb/playlist.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="" group-title="其他",南京新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="" group-title="其他",南京娱乐
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-id="南京信息" tvg-name="南京信息" tvg-logo="" group-title="其他",南京信息
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3029680014_-204362700/ott.mobaibox.com/PLTV/3/224/3221227730/index.m3u8
+#EXTINF:-1 tvg-id="南京影视" tvg-name="南京影视" tvg-logo="" group-title="其他",南京影视
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
+#EXTINF:-1 tvg-id="南京十八" tvg-name="南京十八" tvg-logo="" group-title="其他",南京十八
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/ott.mobaibox.com/PLTV/4/224/3221227178/index.m3u8
+#EXTINF:-1 tvg-id="南京生活" tvg-name="南京生活" tvg-logo="" group-title="其他",南京生活
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3530023629_201686832/ott.mobaibox.com/PLTV/4/224/3221227786/index.m3u8
+#EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="" group-title="其他",南京教科
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3484211223_471033633/ott.mobaibox.com/PLTV/4/224/3221227194/index.m3u8
+#EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="" group-title="其他",南京少儿
+http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="" group-title="其他",苏州新闻综合
+https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-name="苏州社会经济" tvg-logo="" group-title="其他",苏州社会经济
+https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="" group-title="其他",苏州文化生活
+https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 tvg-id="苏州生活资讯" tvg-name="苏州生活资讯" tvg-logo="" group-title="其他",苏州生活资讯
+https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-id="苏州-4K" tvg-name="苏州-4K" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png" group-title="其他",苏州4K频道
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="" group-title="其他",无锡新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3152427644_1112931372/ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-name="无锡新闻综合" tvg-logo="" group-title="其他",无锡新闻综合
+http://stream.thmz.com/wxtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="无锡娱乐频道" tvg-name="无锡娱乐频道" tvg-logo="" group-title="其他",无锡娱乐频道
+http://stream.thmz.com/wxtv2/playlist.m3u8
+#EXTINF:-1 tvg-id="无锡都市资讯" tvg-name="无锡都市资讯" tvg-logo="" group-title="其他",无锡都市资讯
+http://stream.thmz.com/wxtv3/playlist.m3u8
+#EXTINF:-1 tvg-id="无锡生活频道" tvg-name="无锡生活频道" tvg-logo="" group-title="其他",无锡生活频道
+http://stream.thmz.com/wxtv4/playlist.m3u8
+#EXTINF:-1 tvg-id="无锡经济频道" tvg-name="无锡经济频道" tvg-logo="" group-title="其他",无锡经济频道
+http://stream.thmz.com/wxtv5/playlist.m3u8
+#EXTINF:-1 tvg-id="江阴新闻综合" tvg-name="江阴新闻综合" tvg-logo="" group-title="其他",江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
+#EXTINF:-1 tvg-id="常州公共" tvg-name="常州公共" tvg-logo="" group-title="其他",常州公共
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227772/index.m3u8
+#EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="" group-title="其他",常州生活
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+#EXTINF:-1 tvg-id="常州新闻" tvg-name="常州新闻" tvg-logo="" group-title="其他",常州新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+#EXTINF:-1 tvg-id="常州都市" tvg-name="常州都市" tvg-logo="" group-title="其他",常州都市
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" tvg-logo="" group-title="其他",南通新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/4/224/3221228462/index.m3u8
+#EXTINF:-1 tvg-id="南通2台" tvg-name="南通2台" tvg-logo="" group-title="其他",南通2台
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-id="南通3台" tvg-name="南通3台" tvg-logo="" group-title="其他",南通3台
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
+#EXTINF:-1 tvg-id="盐城1台" tvg-name="盐城1台" tvg-logo="" group-title="其他",盐城1台
+http://[2409:8087:2001:20:2800:0:df6e:eb25]/wh7f454c46tw1245367087_-983708624/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-id="盐城2台" tvg-name="盐城2台" tvg-logo="" group-title="其他",盐城2台
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-id="盐城3台" tvg-name="盐城3台" tvg-logo="" group-title="其他",盐城3台
+http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw1299375729_1661164560/ott.mobaibox.com/PLTV/4/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-name="镇江新闻综合" tvg-logo="" group-title="其他",镇江新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw1100784708_827843552/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-id="镇江2台" tvg-name="镇江2台" tvg-logo="" group-title="其他",镇江2台
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw3271148643_-1965191630/ott.mobaibox.com/PLTV/4/224/3221227325/index.m3u8
+#EXTINF:-1 tvg-id="镇江3台" tvg-name="镇江3台" tvg-logo="" group-title="其他",镇江3台
+http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw2461344193_395316009/ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
+#EXTINF:-1 tvg-id="徐州1台" tvg-name="徐州1台" tvg-logo="" group-title="其他",徐州1台
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw449482893_-1418519228/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="徐州2台" tvg-name="徐州2台" tvg-logo="" group-title="其他",徐州2台
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw554442372_-1047030766/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="徐州3台" tvg-name="徐州3台" tvg-logo="" group-title="其他",徐州3台
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw612056802_-2107448704/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="徐州4台" tvg-name="徐州4台" tvg-logo="" group-title="其他",徐州4台
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw646564841_-1162201747/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="铜山1台" tvg-name="铜山1台" tvg-logo="" group-title="其他",铜山1台
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3676988403_-40659425/ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 tvg-id="铜山2台" tvg-name="铜山2台" tvg-logo="" group-title="其他",铜山2台
+http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3266023742_-315157707/ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 tvg-id="铜山3台" tvg-name="铜山3台" tvg-logo="" group-title="其他",铜山3台
+http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3277816327_1610783039/ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
+#EXTINF:-1 tvg-id="睢宁综合" tvg-name="睢宁综合" tvg-logo="" group-title="其他",睢宁综合
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-id="睢宁资讯" tvg-name="睢宁资讯" tvg-logo="" group-title="其他",睢宁资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221227712/index.m3u8
+#EXTINF:-1 tvg-id="睢宁生活" tvg-name="睢宁生活" tvg-logo="" group-title="其他",睢宁生活
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221227701/index.m3u8
+#EXTINF:-1 tvg-id="睢宁三农" tvg-name="睢宁三农" tvg-logo="" group-title="其他",睢宁三农
+http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-name="连云港新闻综合" tvg-logo="" group-title="其他",连云港新闻综合
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]/wh7f454c46tw1598526246_-2101199601/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-id="连云港公共频道" tvg-name="连云港公共频道" tvg-logo="" group-title="其他",连云港公共频道
+http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw913656304_601285611/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-id="淮安综合" tvg-name="淮安综合" tvg-logo="" group-title="其他",淮安综合
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1933892795_-1561469258/ott.mobaibox.com/PLTV/4/224/3221228215/index.m3u8
+#EXTINF:-1 tvg-id="宿迁综合" tvg-name="宿迁综合" tvg-logo="" group-title="其他",宿迁综合
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1682757042_1482535442/ott.mobaibox.com/PLTV/4/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-id="宿迁公共" tvg-name="宿迁公共" tvg-logo="" group-title="其他",宿迁公共
+http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw1756901329_237803346/ott.mobaibox.com/PLTV/4/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="" group-title="其他",江苏城市
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw4264340981_727917420/ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="" group-title="其他",江苏影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw25164341_-1061241932/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="" group-title="其他",江苏综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
+#EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="" group-title="其他",江苏教育
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw329009742_-1392321549/ott.mobaibox.com/PLTV/3/224/3221225923/index.m3u8
+#EXTINF:-1 tvg-id="江苏公共·新闻" tvg-name="江苏公共·新闻" tvg-logo="" group-title="其他",江苏公共·新闻
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw4180964299_994803683/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
+#EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="" group-title="其他",江苏体育·休闲
+http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
+#EXTINF:-1 tvg-id="江苏广电4K" tvg-name="江苏广电4K" tvg-logo="" group-title="其他",江苏广电4K导视
+http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=
+#EXTINF:-1 tvg-id="江苏8K" tvg-name="江苏8K" tvg-logo="" group-title="其他",江苏8K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="其他",浙江公共新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="其他",浙江国际频道
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="其他",浙江少儿频道
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png" group-title="其他",浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江数码时代" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png" group-title="其他",浙江数码时代
+http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png" group-title="其他",浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png" group-title="其他",浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png" group-title="其他",浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="其他",嘉兴新闻综合
+http://play-a2.quklive.com/live/1675942165226154.m3u8
+#EXTINF:-1 tvg-id="嘉兴公共频道" tvg-name="嘉兴公共频道" tvg-logo="" group-title="其他",嘉兴公共频道
+http://play-a2.quklive.com/live/1675149601192103.m3u8
+#EXTINF:-1 tvg-id="嘉兴文化影视" tvg-name="嘉兴文化影视" tvg-logo="" group-title="其他",嘉兴文化影视
+http://play-a2.quklive.com/live/1675149625220101.m3u8
+#EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="" group-title="其他",绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1 tvg-id="绍兴公共频道" tvg-name="绍兴公共频道" tvg-logo="" group-title="其他",绍兴公共频道
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1 tvg-id="绍兴文化影视" tvg-name="绍兴文化影视" tvg-logo="" group-title="其他",绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="其他",北京纪实科教
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001231/index.m3u8
+#EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="其他",北京卡酷少儿
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="其他",海南公共
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="其他",海南自贸
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png" group-title="其他",海南文旅
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png" group-title="其他",海南少儿
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="其他",金鹰纪实
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="其他",茶频道
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="其他",快乐垂钓
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
+#EXTINF:-1 tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="" group-title="其他",三立台湾台
+https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+#EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="" group-title="其他",三立都会台
+https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="其他",欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="其他",4K超高清电影
+https://cntv.sbs/tv/v6.php?id=emdy4k_8000
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="其他",纯享4K
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
